@@ -1,2 +1,8 @@
 # C-Performance-Tips
-A Presentation , Youtube Video and Sample code on Writing high Performing C++ Application
+
+Author : Gokul Kartha <kartha.gokul@gmail.com>
+
+
+This repository contains Source Code Examples, Link to Youtube Videos and a Presentation on 
+
+"Writing High Performing C++ Applications"
