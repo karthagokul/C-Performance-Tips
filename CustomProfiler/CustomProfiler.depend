@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1506726249 source:d:\workspace\c-performance-tips\customprofiler\main.cpp
+	"profiler.h"
+	<iostream>
+
+1506726502 d:\workspace\c-performance-tips\customprofiler\profiler.h
+	<iostream>
+	<chrono>
+	<fstream>
+	<sstream>
+
